@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL mintainer="Jakub Jarosz"
+LABEL maintainer="Jakub Jarosz"
 ENV container_type=docker
 
 # ===============================================
